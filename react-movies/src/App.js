@@ -21,6 +21,6 @@ function App() {
       <div>${myDate.toString()}</div>
     </div>
   );
-}
+} 
 
 export default App;
